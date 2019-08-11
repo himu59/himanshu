@@ -10,4 +10,4 @@ def game_board():
 game_board()
 game[0][1] = 4
 print(game)
-
+//my first PROGRAM AND I DONT ABOUT IT WHAT I M DOING
